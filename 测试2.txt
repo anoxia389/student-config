@@ -8,3 +8,5 @@ spring:
       label:  master              #获取master默认分支
       uri: http://localhost:9080/
       前后金锁固精丸深V
+bnmxnmnxmn
+你慢慢看每次没
